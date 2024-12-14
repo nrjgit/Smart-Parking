@@ -71,24 +71,7 @@ export default class SearchBar extends React.Component {
 
     render() {
 
-        // // Twilio Credentials
-        // const accountSid = 'AC35fb5284830a48b1bb176e01a270e6e1';
-        // const authToken = '8cd1058de7f7ca2a2fbbeeeb413d2ecf';
-
-        // // require the Twilio module and create a REST client
-        // const client = require('twilio')(accountSid, authToken);
-
-        // client.messages
-        //     .create({
-        //         to: '+16507712966',
-        //         from: '+16504828352',
-        //         body: 'This is the ship that made the Kessel Run in fourteen parsecs?',
-        //     })
-        //     .then(message => console.log(message.sid));
-
-
-        // const img = require('../../src/assets/images/magnifying-glass-icon.svg');
-        return (
+      return (
             <div>
 
                 <Form sm={2} onSubmit={this.handleSubmit}>
