@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0fd9de01.css",
+    "main.js": "/static/js/main.e118a803.js",
+    "static/media/diagonal-cut-p.png": "/static/media/diagonal-cut-p.26387d2863ebaf374e46.png",
+    "static/media/Red_Phone_Font-Awesome.svg.png": "/static/media/Red_Phone_Font-Awesome.svg.3c2f7f943d2f7b0de6a8.png",
+    "static/media/logo.svg": "/static/media/logo.2d27ead7c10f774c5306bcf3c257a728.svg",
+    "index.html": "/index.html",
+    "static/media/map-pin-icon.svg": "/static/media/map-pin-icon.3d15605bb17730820a66b3b9a3136089.svg",
+    "static/media/magnifying-glass-icon.svg": "/static/media/magnifying-glass-icon.7db6e4fa7387ef2bf198c3c79b30c78d.svg",
+    "main.0fd9de01.css.map": "/static/css/main.0fd9de01.css.map",
+    "main.e118a803.js.map": "/static/js/main.e118a803.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fd9de01.css",
+    "static/js/main.e118a803.js"
+  ]
+}
