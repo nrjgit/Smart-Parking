@@ -43,5 +43,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://nrjgit.github.io/smartParking"
+  "homepage": "https://nrjgit.github.io/Smart-Parking",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
 }
